@@ -36,7 +36,7 @@ As a Software Developer, my passion lies in creating accessible applications tha
 
 <div>
   <h2>REACH OUT TO ME</h2>
-  <a href="https://www.linkedin.com/in/allan-njoroge-0177b2270/" target="_blank">
+  <a href="https://www.linkedin.com/in/malcolm-ekajja-59366a26b/">
     <img alt="linkedin" src="https://img.shields.io/badge/-linkedin-fafafa.svg?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="mailto:http://allandavis254@gmail.com" target="_blank">
