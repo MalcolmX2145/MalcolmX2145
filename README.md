@@ -39,10 +39,7 @@ As a Software Developer, my passion lies in creating accessible applications tha
   <a href="https://www.linkedin.com/in/malcolm-ekajja-59366a26b/">
     <img alt="linkedin" src="https://img.shields.io/badge/-linkedin-fafafa.svg?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
-  <a href="mailto:http://allandavis254@gmail.com" target="_blank">
+  <a href="mailto:http://ekajjamalcolm@gmail.com" target="_blank">
     <img alt="gmail" src="https://img.shields.io/badge/gmail-fafafa.svg?style=for-the-badge&logo=gmail&logoColor=black" />
-  </a>
-  <a href="http://justallan.netlify.app" target="_blank">
-    <img alt="portfolio website" src="https://img.shields.io/badge/-my portfolio-fafafa.svg?style=for-the-badge&logo=internet&logoColor=black" />
   </a>
 </div>
