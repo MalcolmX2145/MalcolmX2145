@@ -15,7 +15,6 @@ I build reliable, scalable, and secure systems, from the connected device to the
   <h3>Cloud & DevOps</h3>
   <img alt="Cloud Infrastructure" src="https://img.shields.io/badge/-Cloud%20Infrastructure-fafafa.svg?style=for-the-badge&logoColor=black" />
   <img alt="Deployment" src="https://img.shields.io/badge/-Deployment%20%26%20Hosting-fafafa.svg?style=for-the-badge&logoColor=black" />
-  <img alt="Automation" src="https://img.shields.io/badge/-Automation-fafafa.svg?style=for-the-badge&logoColor=black" />
   <img alt="Security" src="https://img.shields.io/badge/-Security-fafafa.svg?style=for-the-badge&logoColor=black" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-fafafa.svg?style=for-the-badge&logo=git&logoColor=black" />
   <img alt="CI/CD" src="https://img.shields.io/badge/-CI%2FCD-fafafa.svg?style=for-the-badge&logoColor=black" />
