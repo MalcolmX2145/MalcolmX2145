@@ -1,11 +1,15 @@
 <div align="center">
   <h1>Hello, I'm Malcolm</h1>
-  <h3>A Software Developer</h3>
+  <h3>A Software &amp; Cloud Engineer</h3>
+  <p><a href="https://malcolm-mu.vercel.app/">malcolm-mu.vercel.app</a></p>
 </div>
 
 <h2>ABOUT ME</h2>
 <p>
-As a Software Developer, my passion lies in creating accessible applications that users enjoy. With a commitment to excellence, I constantly update my skill set to incorporate cutting-edge technologies, ensuring that the applications I build are both innovative and user-friendly. In the dynamic field of software development, my focus on accessibility, user experiences, and cultural sensitivity fuels my excitement for creating impactful and meaningful online experiences for users worldwide.
+I am a Software and Cloud Engineer driven by a passion for building reliable, scalable, and secure systems. With a strong foundation in software development and cloud technologies, I enjoy designing and deploying solutions that bridge user needs with powerful backend architectures.
+</p>
+<p>
+Based in Kenya, I solve problems with innovative thinking and clean, maintainable code. My expertise spans full-stack development, cloud infrastructure, and automation, enabling me to deliver end-to-end solutions.
 </p>
 
 <div>
@@ -30,14 +34,19 @@ As a Software Developer, my passion lies in creating accessible applications tha
   <img alt="VSCODE" src="https://img.shields.io/badge/-VSCode-fafafa.svg?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
   <img alt="git" src="https://img.shields.io/badge/-Git-fafafa.svg?style=for-the-badge&logo=git&logoColor=black" />
   <img alt="Github" src="https://img.shields.io/badge/-GitHub-fafafa.svg?style=for-the-badge&logo=github&logoColor=black" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-fafafa.svg?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-fafafa.svg?style=for-the-badge&logo=arduino&logoColor=black" />
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-fafafa.svg?style=for-the-badge&logo=raspberrypi&logoColor=black" />
+  <img alt="ESP32" src="https://img.shields.io/badge/-ESP32-fafafa.svg?style=for-the-badge&logo=espressif&logoColor=black" />
+  <img alt="MQTT" src="https://img.shields.io/badge/-MQTT-fafafa.svg?style=for-the-badge&logo=mqtt&logoColor=black" />
 </div>
 
 <div>
   <h2>REACH OUT TO ME</h2>
-  <a href="https://www.linkedin.com/in/malcolm-ekajja-59366a26b/">
+  <a href="https://www.linkedin.com/in/malcolm-ekajja/">
     <img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-fafafa.svg?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
-  <a href="mailto:http://ekajjamalcolm@gmail.com" target="_blank">
+  <a href="mailto:ekajjamalcolm@gmail.com" target="_blank">
     <img alt="gmail" src="https://img.shields.io/badge/-Gmail-fafafa.svg?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
 </div>
