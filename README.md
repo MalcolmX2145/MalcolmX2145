@@ -6,7 +6,7 @@
 
 <h2>ABOUT ME</h2>
 <p>
-I build reliable, scalable, and secure systems, from the connected device to the cloud backend to the app people use. Based in Kenya, I focus on three areas: cloud infrastructure, software development, and IoT.
+I build reliable, scalable, and secure systems, from the connected device to the cloud backend to the app people use. Based in Kenya, I focus on three areas: cloud and DevOps, software development, and IoT.
 </p>
 
 <div>
@@ -14,11 +14,11 @@ I build reliable, scalable, and secure systems, from the connected device to the
 
   <h3>Cloud & DevOps</h3>
   <img alt="Cloud Infrastructure" src="https://img.shields.io/badge/-Cloud%20Infrastructure-fafafa.svg?style=for-the-badge&logoColor=black" />
-  <img alt="Deployment" src="https://img.shields.io/badge/-Deployment%20&%20Hosting-fafafa.svg?style=for-the-badge&logoColor=black" />
+  <img alt="Deployment" src="https://img.shields.io/badge/-Deployment%20%26%20Hosting-fafafa.svg?style=for-the-badge&logoColor=black" />
   <img alt="Automation" src="https://img.shields.io/badge/-Automation-fafafa.svg?style=for-the-badge&logoColor=black" />
   <img alt="Security" src="https://img.shields.io/badge/-Security-fafafa.svg?style=for-the-badge&logoColor=black" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-fafafa.svg?style=for-the-badge&logo=git&logoColor=black" />
-  <img alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-fafafa.svg?style=for-the-badge&logoColor=black" />
+  <img alt="CI/CD" src="https://img.shields.io/badge/-CI%2FCD-fafafa.svg?style=for-the-badge&logoColor=black" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-fafafa.svg?style=for-the-badge&logo=linux&logoColor=black" />
 
   <h3>Software</h3>
@@ -33,7 +33,7 @@ I build reliable, scalable, and secure systems, from the connected device to the
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-fafafa.svg?style=for-the-badge&logo=arduino&logoColor=black" />
   <img alt="ESP32" src="https://img.shields.io/badge/-ESP32-fafafa.svg?style=for-the-badge&logo=espressif&logoColor=black" />
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-fafafa.svg?style=for-the-badge&logo=raspberrypi&logoColor=black" />
-  <img alt="Node-RED" src="https://img.shields.io/badge/-Node-RED-fafafa.svg?style=for-the-badge&logo=nodered&logoColor=black" />
+  <img alt="Node-RED" src="https://img.shields.io/badge/-Node--RED-fafafa.svg?style=for-the-badge&logo=nodered&logoColor=black" />
   <img alt="MQTT" src="https://img.shields.io/badge/-MQTT-fafafa.svg?style=for-the-badge&logo=mqtt&logoColor=black" />
 </div>
 
