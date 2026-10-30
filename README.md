@@ -12,24 +12,28 @@ I build reliable, scalable, and secure systems, from the connected device to the
 <div>
   <h2>SKILLS</h2>
 
-  <h3>Cloud</h3>
+  <h3>Cloud & DevOps</h3>
   <img alt="Cloud Infrastructure" src="https://img.shields.io/badge/-Cloud%20Infrastructure-fafafa.svg?style=for-the-badge&logoColor=black" />
   <img alt="Deployment" src="https://img.shields.io/badge/-Deployment%20&%20Hosting-fafafa.svg?style=for-the-badge&logoColor=black" />
   <img alt="Automation" src="https://img.shields.io/badge/-Automation-fafafa.svg?style=for-the-badge&logoColor=black" />
   <img alt="Security" src="https://img.shields.io/badge/-Security-fafafa.svg?style=for-the-badge&logoColor=black" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-fafafa.svg?style=for-the-badge&logo=git&logoColor=black" />
+  <img alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-fafafa.svg?style=for-the-badge&logoColor=black" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-fafafa.svg?style=for-the-badge&logo=linux&logoColor=black" />
 
   <h3>Software</h3>
   <img alt="Full-Stack Development" src="https://img.shields.io/badge/-Full--Stack%20Development-fafafa.svg?style=for-the-badge&logoColor=black" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-fafafa.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-fafafa.svg?style=for-the-badge&logo=typescript&logoColor=black" />
   <img alt="ReactJs" src="https://img.shields.io/badge/-Reactjs-fafafa.svg?style=for-the-badge&logo=react&logoColor=black" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-fafafa.svg?style=for-the-badge&logo=node.js&logoColor=black" />
+  <img alt="QA Testing" src="https://img.shields.io/badge/-QA%20Testing-fafafa.svg?style=for-the-badge&logoColor=black" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-fafafa.svg?style=for-the-badge&logo=postgresql&logoColor=black" />
 
   <h3>IoT</h3>
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-fafafa.svg?style=for-the-badge&logo=arduino&logoColor=black" />
   <img alt="ESP32" src="https://img.shields.io/badge/-ESP32-fafafa.svg?style=for-the-badge&logo=espressif&logoColor=black" />
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-fafafa.svg?style=for-the-badge&logo=raspberrypi&logoColor=black" />
+  <img alt="Node-RED" src="https://img.shields.io/badge/-Node-RED-fafafa.svg?style=for-the-badge&logo=nodered&logoColor=black" />
   <img alt="MQTT" src="https://img.shields.io/badge/-MQTT-fafafa.svg?style=for-the-badge&logo=mqtt&logoColor=black" />
 </div>
 
